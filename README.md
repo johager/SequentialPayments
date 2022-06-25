@@ -1,6 +1,8 @@
 # Sequential Payments Code Challenge
 
-This solution satisfies the given examples, but I know that it will not cover all cases.
+My first solution satisfied the given examples, but I knew that it would not cover all cases.
+
+My second solution will provide the correct answer for all cases.
 
 ## Problem Description
 A company has a list of expected revenues and payments for the upcoming year in chronological order. The problem is that at some moments in time the sum of previous payments can be larger than the total previous revenue. This would put the company in debt. To avoid this problem the company takes a very simple approach. It reschedules some expenses to the end of the year.
